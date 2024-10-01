@@ -24,7 +24,7 @@ userMenu.featureRoadmap:
 
 userMenu.language:
 - source: Language
-- translation: 
+- translation: Linguagem
 
 userMenu.logout:
 - source: Logout
@@ -72,83 +72,83 @@ project.error.signInToLikeProject:
 
 project.shareDialog.title:
 - source: Share Project
-- translation: 
+- translation: Compartilhar projeto
 
 project.shareDialog.copyToClipboard:
 - source: Copy to clipboard
-- translation: 
+- translation: Cópia para a área de transferência
 
 project.shareDialog.pleaseSave:
 - source: To share this project, please save it first:
-- translation: 
+- translation: Para compartilhar este projeto, salve-o primeiro:
 
 project.shareDialog.saveProject:
 - source: Save project
-- translation: 
+- translation: Salvar projeto
 
 project.shareDialog.closeButton:
 - source: Close
-- translation: 
+- translation: Fechar
 
 simulator.tabs.simulation:
 - source: Simulation
-- translation: 
+- translation: Simulador
 
 simulator.tabs.code:
 - source: Code
-- translation: 
+- translation: Código
 
 simulator.tabs.description:
 - source: Description
-- translation: 
+- translation: Descrição
 
 simulator.main.restart:
 - source: Restart the simulation
-- translation: 
+- translation: Reiniciar a simulação
 
 simulator.main.start:
 - source: Start the simulation
-- translation: 
+- translation: Iniciar a simulação
 
 simulator.main.resume:
 - source: Resume
-- translation: 
+- translation: Retomar
 
 simulator.main.pause:
 - source: Pause
-- translation: 
+- translation: Pausar
 
 simulator.main.addNewPart:
 - source: Add a new part
-- translation: 
+- translation: Adicione uma novo componente
 
 simulator.main.stopSimulation:
 - source: Stop the simulation
-- translation: 
+- translation: Parar a simulação
 
 simulator.main.zoomGridTooltip:
 - source: Zoom, Grid, and more
-- translation: 
+- translation: Zoom, grade e mais
 
 simulator.buildFailedDialog.title:
 - source: Build failed!
-- translation: 
+- translation: A construção falhou!
 
 simulator.downloadingDataDialog.title:
 - source: Downloading SD Card Data...
-- translation: 
+- translation: Baixando dados do cartão SD...
 
 editor.fileMenu.formatSuccessful:
 - source: Code formatted successfully
-- translation: 
+- translation: Código formatado com sucesso
 
 editor.fileMenu.formatAlready:
 - source: Code already formatted
-- translation: 
+- translation: Código já formatado
 
 editor.fileMenu.formatCode:
 - source: Format code
-- translation: 
+- translation: Formatar código
 
 editor.fileMenu.rename:
 - source: Rename
@@ -188,27 +188,27 @@ editor.fileMenu.error.uploadFailed:
 
 editor.sdCard.uploadFiles:
 - source: Upload files
-- translation: 
+- translation: Enviar arquivos
 
 editor.sdCard.uploadCompleteFolder:
 - source: Upload complete folder
-- translation: 
+- translation: Enviar pasta completa
 
 editor.sdCard.deleteAllFiles:
 - source: Delete all files
-- translation: 
+- translation: Deletar todos os arquivos
 
 editor.sdCard.noFilesYet:
 - source: No files yet. Please upload some files.
-- translation: 
+- translation: Nenhum arquivo ainda. Por favor, carregue alguns arquivos.
 
 diagram.menu.undo:
 - source: Undo
-- translation: 
+- translation: Voltar
 
 diagram.menu.redo:
 - source: Redo
-- translation: 
+- translation: Refazer
 
 diagram.menu.fit:
 - source: Fit
@@ -240,63 +240,63 @@ diagram.menu.help:
 
 diagram.addPart.category.microcontrollers:
 - source: Microcontrollers
-- translation: 
+- translation: Microcontroladores
 
 diagram.addPart.category.basic:
 - source: Basic
-- translation: 
+- translation: Básico
 
 diagram.addPart.category.display:
 - source: Display
-- translation: 
+- translation: Display (Telas)
 
 diagram.addPart.category.input:
 - source: Input
-- translation: 
+- translation: Entrada
 
 diagram.addPart.category.sensor:
 - source: Sensor
-- translation: 
+- translation: Sensor
 
 diagram.addPart.category.output:
 - source: Output
-- translation: 
+- translation: Saida
 
 diagram.addPart.category.breadboard:
 - source: Breadboard
-- translation: 
+- translation: Protoboard (Placa de ensaio)
 
 diagram.addPart.category.misc:
 - source: Misc
-- translation: 
+- translation: Diversos
 
 diagram.addPart.category.power:
 - source: Power
-- translation: 
+- translation: Energia
 
 diagram.addPart.category.logic:
 - source: Logic
-- translation: 
+- translation: Lógico
 
 diagram.addPart.board-cd74hc4067:
 - source: 16 Channel Analog Multiplexer (CD74HC4067)
-- translation: 
+- translation: Multiplexador analógico de 16 canais (CD74HC4067)
 
 diagram.addPart.board-ds18b20:
 - source: DS18B20 Temperature Sensor (beta)
-- translation: 
+- translation: Sensor de temperatura DS18B20 (beta)
 
 diagram.addPart.board-epaper-2in9:
 - source: 2.9" e-Paper Display (beta)
-- translation: 
+- translation: Display e-Paper 2.9″ 296×128 (beta)
 
 diagram.addPart.board-grove-oled-sh1107:
 - source: Grove SH1107 - OLED Display
-- translation: 
+- translation: Display OLED Grove - SH1107 128x128
 
 diagram.addPart.board-ili9341-cap-touch:
 - source: ILI9341 2.8" Touch Screen LCD
-- translation: 
+- translation: Display Touch TFT LCD ILI9341 2.8" 240*320
 
 diagram.addPart.board-ssd1306:
 - source: SSD1306 OLED display
@@ -304,15 +304,15 @@ diagram.addPart.board-ssd1306:
 
 diagram.addPart.chip:
 - source: Custom Chip
-- translation: 
+- translation: Chip Personalizado
 
 diagram.addPart.wokwi-74hc165:
 - source: 74HC165 Input Shift Register (PISO)
-- translation: 
+- translation: 74HC165 CI Registrador de Deslocamento de ENTRADA (PISO)
 
 diagram.addPart.wokwi-74hc595:
 - source: 74HC595 Shift Register
-- translation: 74HC595 CI Registrador de Deslocamento
+- translation: 74HC595 CI Registrador de Deslocamento de SAIDA (SIPO)
 
 diagram.addPart.wokwi-7segment:
 - source: Seven Segment Display
@@ -324,7 +324,7 @@ diagram.addPart.wokwi-7segment-4digits:
 
 diagram.addPart.wokwi-a4988:
 - source: A4988 Stepper Motor Driver
-- translation: 
+- translation: Driver de motor de passo A4988
 
 diagram.addPart.wokwi-analog-joystick:
 - source: Analog Joystick
@@ -332,23 +332,23 @@ diagram.addPart.wokwi-analog-joystick:
 
 diagram.addPart.wokwi-biaxial-stepper:
 - source: Biaxial Stepper Motor
-- translation: 
+- translation: Motor de passo biaxial concêntrico
 
 diagram.addPart.wokwi-breadboard:
 - source: Breadboard
-- translation: 
+- translation: Protoboard Grande 830 pontos
 
 diagram.addPart.wokwi-breadboard-half:
 - source: Half Breadboard
-- translation: 
+- translation: Protoboard 400 pontos
 
 diagram.addPart.wokwi-breadboard-mini:
 - source: Mini Breadboard
-- translation: 
+- translation: Protoboard Mini 170 pontos
 
 diagram.addPart.wokwi-buzzer:
 - source: Buzzer
-- translation: Buzzer
+- translation: Buzzer piezoelétrico (passivo)
 
 diagram.addPart.wokwi-dht22:
 - source: DHT22
