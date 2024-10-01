@@ -1,0 +1,560 @@
+userMenu.signIn:
+- source: Sign in
+- translation: Entrar
+
+userMenu.signUp:
+- source: Sign up
+- translation: Inscrever-se
+
+userMenu.discord:
+- source: Discord
+- translation: Discord
+
+userMenu.myProjects:
+- source: My projects
+- translation: Meus projetos
+
+userMenu.theClub:
+- source: The Club
+- translation: O Clube
+
+userMenu.featureRoadmap:
+- source: Feature Roadmap
+- translation: Roteiro de recursos
+
+userMenu.language:
+- source: Language
+- translation: 
+
+userMenu.logout:
+- source: Logout
+- translation: Sair
+
+project.header.save:
+- source: Save
+- translation: Salvar
+
+project.header.share:
+- source: Share
+- translation: Compartilhar
+
+project.header.likeProjectTooltip:
+- source: Like this project
+- translation: Curtir este projeto
+
+project.header.unlikeProjectTooltip:
+- source: Unlike this project
+- translation: Deixar de curtir
+
+project.menu.saveACopy:
+- source: Save a copy
+- translation: Salvar uma cópia
+
+project.menu.lockProject:
+- source: Lock project
+- translation: Bloquear projeto
+
+project.menu.unlistProject:
+- source: Unlist project
+- translation: Remover projeto da lista
+
+project.menu.downloadProjectZip:
+- source: Download project ZIP
+- translation: Baixar ZIP do projeto
+
+project.error.saveFailed:
+- source: Save failed: project is locked!
+- translation: Falha ao salvar: o projeto está bloqueado!
+
+project.error.signInToLikeProject:
+- source: Please sign-in to Like this project.
+- translation: Faça login para curtir este projeto.
+
+project.shareDialog.title:
+- source: Share Project
+- translation: 
+
+project.shareDialog.copyToClipboard:
+- source: Copy to clipboard
+- translation: 
+
+project.shareDialog.pleaseSave:
+- source: To share this project, please save it first:
+- translation: 
+
+project.shareDialog.saveProject:
+- source: Save project
+- translation: 
+
+project.shareDialog.closeButton:
+- source: Close
+- translation: 
+
+simulator.tabs.simulation:
+- source: Simulation
+- translation: 
+
+simulator.tabs.code:
+- source: Code
+- translation: 
+
+simulator.tabs.description:
+- source: Description
+- translation: 
+
+simulator.main.restart:
+- source: Restart the simulation
+- translation: 
+
+simulator.main.start:
+- source: Start the simulation
+- translation: 
+
+simulator.main.resume:
+- source: Resume
+- translation: 
+
+simulator.main.pause:
+- source: Pause
+- translation: 
+
+simulator.main.addNewPart:
+- source: Add a new part
+- translation: 
+
+simulator.main.stopSimulation:
+- source: Stop the simulation
+- translation: 
+
+simulator.main.zoomGridTooltip:
+- source: Zoom, Grid, and more
+- translation: 
+
+simulator.buildFailedDialog.title:
+- source: Build failed!
+- translation: 
+
+simulator.downloadingDataDialog.title:
+- source: Downloading SD Card Data...
+- translation: 
+
+editor.fileMenu.formatSuccessful:
+- source: Code formatted successfully
+- translation: 
+
+editor.fileMenu.formatAlready:
+- source: Code already formatted
+- translation: 
+
+editor.fileMenu.formatCode:
+- source: Format code
+- translation: 
+
+editor.fileMenu.rename:
+- source: Rename
+- translation: Renomear
+
+editor.fileMenu.delete:
+- source: Delete
+- translation: Excluir
+
+editor.fileMenu.newFile:
+- source: New file...
+- translation: Novo arquivo...
+
+editor.fileMenu.uploadFile:
+- source: Upload file(s)...
+- translation: Enviar arquivo(s)...
+
+editor.fileMenu.confirmDelete:
+- source: This will remove {{filename}}. Should I go ahead?
+- translation: Isso removerá {{filename}}. Deseja prosseguir?
+
+editor.fileMenu.error.invalidFileName:
+- source: Invalid filename: character {{char}} is not allowed.
+- translation: Nome de arquivo inválido: o caractere {{char}} não é permitido.
+
+editor.fileMenu.error.invalidFileType:
+- source: Invalid file type. Supported file types: {{types}}.
+- translation: Tipo de arquivo inválido. Tipos de arquivo suportados: {{types}}.
+
+editor.fileMenu.error.fileExists:
+- source: A file with this name already exists
+- translation: Já existe um arquivo com este nome
+
+editor.fileMenu.error.uploadFailed:
+- source: Some files could not be uploaded!
+- translation: Alguns arquivos não puderam ser carregados!
+
+editor.sdCard.uploadFiles:
+- source: Upload files
+- translation: 
+
+editor.sdCard.uploadCompleteFolder:
+- source: Upload complete folder
+- translation: 
+
+editor.sdCard.deleteAllFiles:
+- source: Delete all files
+- translation: 
+
+editor.sdCard.noFilesYet:
+- source: No files yet. Please upload some files.
+- translation: 
+
+diagram.menu.undo:
+- source: Undo
+- translation: 
+
+diagram.menu.redo:
+- source: Redo
+- translation: 
+
+diagram.menu.fit:
+- source: Fit
+- translation: Ajustar
+
+diagram.menu.zoomIn:
+- source: Zoom in
+- translation: Zoom mais
+
+diagram.menu.zoomOut:
+- source: Zoom out
+- translation: Zoom menos
+
+diagram.menu.toggleGrid:
+- source: Toggle grid
+- translation: Alternar grade
+
+diagram.menu.fullScreen:
+- source: Full screen
+- translation: Tela cheia
+
+diagram.menu.exitFullScreen:
+- source: Exit full screen
+- translation: Sair da tela cheia
+
+diagram.menu.help:
+- source: Help
+- translation: Ajuda
+
+diagram.addPart.category.microcontrollers:
+- source: Microcontrollers
+- translation: 
+
+diagram.addPart.category.basic:
+- source: Basic
+- translation: 
+
+diagram.addPart.category.display:
+- source: Display
+- translation: 
+
+diagram.addPart.category.input:
+- source: Input
+- translation: 
+
+diagram.addPart.category.sensor:
+- source: Sensor
+- translation: 
+
+diagram.addPart.category.output:
+- source: Output
+- translation: 
+
+diagram.addPart.category.breadboard:
+- source: Breadboard
+- translation: 
+
+diagram.addPart.category.misc:
+- source: Misc
+- translation: 
+
+diagram.addPart.category.power:
+- source: Power
+- translation: 
+
+diagram.addPart.category.logic:
+- source: Logic
+- translation: 
+
+diagram.addPart.board-cd74hc4067:
+- source: 16 Channel Analog Multiplexer (CD74HC4067)
+- translation: 
+
+diagram.addPart.board-ds18b20:
+- source: DS18B20 Temperature Sensor (beta)
+- translation: 
+
+diagram.addPart.board-epaper-2in9:
+- source: 2.9" e-Paper Display (beta)
+- translation: 
+
+diagram.addPart.board-grove-oled-sh1107:
+- source: Grove SH1107 - OLED Display
+- translation: 
+
+diagram.addPart.board-ili9341-cap-touch:
+- source: ILI9341 2.8" Touch Screen LCD
+- translation: 
+
+diagram.addPart.board-ssd1306:
+- source: SSD1306 OLED display
+- translation: Display OLED SSD1306
+
+diagram.addPart.chip:
+- source: Custom Chip
+- translation: 
+
+diagram.addPart.wokwi-74hc165:
+- source: 74HC165 Input Shift Register (PISO)
+- translation: 
+
+diagram.addPart.wokwi-74hc595:
+- source: 74HC595 Shift Register
+- translation: 74HC595 CI Registrador de Deslocamento
+
+diagram.addPart.wokwi-7segment:
+- source: Seven Segment Display
+- translation: Display de Sete Segmentos (1 dígito)
+
+diagram.addPart.wokwi-7segment-4digits:
+- source: Seven Segment Display (4 digits)
+- translation: Display de Sete Segmentos (4 dígitos)
+
+diagram.addPart.wokwi-a4988:
+- source: A4988 Stepper Motor Driver
+- translation: 
+
+diagram.addPart.wokwi-analog-joystick:
+- source: Analog Joystick
+- translation: Joystick Analógico
+
+diagram.addPart.wokwi-biaxial-stepper:
+- source: Biaxial Stepper Motor
+- translation: 
+
+diagram.addPart.wokwi-breadboard:
+- source: Breadboard
+- translation: 
+
+diagram.addPart.wokwi-breadboard-half:
+- source: Half Breadboard
+- translation: 
+
+diagram.addPart.wokwi-breadboard-mini:
+- source: Mini Breadboard
+- translation: 
+
+diagram.addPart.wokwi-buzzer:
+- source: Buzzer
+- translation: Buzzer
+
+diagram.addPart.wokwi-dht22:
+- source: DHT22
+- translation: DHT22 – Sensor de Temperatura e Umidade
+
+diagram.addPart.wokwi-dip-switch-8:
+- source: DIP Switch 8
+- translation: 
+
+diagram.addPart.wokwi-ds1307:
+- source: DS1307 RTC
+- translation: Relógio RTC DS1307
+
+diagram.addPart.wokwi-flip-flop-d:
+- source: Flip-Flop D
+- translation: 
+
+diagram.addPart.wokwi-flip-flop-dsr:
+- source: Flip-Flop DSR
+- translation: 
+
+diagram.addPart.wokwi-gate-and-2:
+- source: AND gate
+- translation: 
+
+diagram.addPart.wokwi-gate-nand-2:
+- source: NAND gate
+- translation: 
+
+diagram.addPart.wokwi-gate-not:
+- source: NOT gate
+- translation: 
+
+diagram.addPart.wokwi-gate-or-2:
+- source: OR gate
+- translation: 
+
+diagram.addPart.wokwi-gate-xor-2:
+- source: XOR gate
+- translation: 
+
+diagram.addPart.wokwi-gnd:
+- source: GND Symbol
+- translation: 
+
+diagram.addPart.wokwi-hc-sr04:
+- source: HC-SR04 Ultrasonic Distance Sensor
+- translation: Sensor Ultrassônico HC-SR04
+
+diagram.addPart.wokwi-hx711:
+- source: HX711 Load Cell (50kg)
+- translation: 
+
+diagram.addPart.wokwi-hx711-5kg:
+- source: HX711 Load Cell (5kg)
+- translation: 
+
+diagram.addPart.wokwi-ili9341:
+- source: ILI9341 2.8" TFT-LCD display
+- translation: 
+
+diagram.addPart.wokwi-ir-receiver:
+- source: IR Receiver
+- translation: Receptor IR
+
+diagram.addPart.wokwi-ir-remote:
+- source: IR Remote
+- translation: Controle Remoto IR
+
+diagram.addPart.wokwi-junction:
+- source: Junction (beta)
+- translation: 
+
+diagram.addPart.wokwi-ks2e-m-dc5:
+- source: DPDT Relay
+- translation: 
+
+diagram.addPart.wokwi-ky-040:
+- source: Rotary Encoder (KY-040)
+- translation: Encoder Rotativo KY-040
+
+diagram.addPart.wokwi-lcd1602:
+- source: LCD 16x2
+- translation: LCD 16x2
+
+diagram.addPart.wokwi-lcd1602-i2c:
+- source: LCD 16x2 (I2C)
+- translation: LCD 16x2 (I2C)
+
+diagram.addPart.wokwi-lcd2004:
+- source: LCD 20x4
+- translation: LCD 20x4
+
+diagram.addPart.wokwi-lcd2004-i2c:
+- source: LCD 20x4 (I2C)
+- translation: LCD 20x4 (I2C)
+
+diagram.addPart.wokwi-led:
+- source: LED
+- translation: LED
+
+diagram.addPart.wokwi-led-bar-graph:
+- source: LED Bar Graph
+- translation: Gráfico de Barras LED
+
+diagram.addPart.wokwi-led-ring:
+- source: NeoPixel Compatible LED Ring (WS2812)
+- translation: NeoPixel Ring (Anel de LEDs)
+
+diagram.addPart.wokwi-logic-analyzer:
+- source: Logic Analyzer (8 channels)
+- translation: Analisador Lógico (8 canais)
+
+diagram.addPart.wokwi-logo:
+- source: Wokwi Logo
+- translation: 
+
+diagram.addPart.wokwi-max7219-matrix:
+- source: LED Dot Matrix (MAX7219)
+- translation: LED Dot Matrix (MAX7219)
+
+diagram.addPart.wokwi-membrane-keypad:
+- source: Keypad
+- translation: Teclado
+
+diagram.addPart.wokwi-microsd-card:
+- source: microSD card
+- translation: Cartão microSD
+
+diagram.addPart.wokwi-mpu6050:
+- source: MPU6050 Accelerometer + Gyroscope
+- translation: MPU6050 Acelerômetro + Giroscópio
+
+diagram.addPart.wokwi-mux-2:
+- source: MUX
+- translation: 
+
+diagram.addPart.wokwi-neopixel:
+- source: NeoPixel Compatible LED (WS2812)
+- translation: 
+
+diagram.addPart.wokwi-neopixel-meter:
+- source: NeoPixel Meter
+- translation: NeoPixel Meter
+
+diagram.addPart.wokwi-nlsf595:
+- source: NLSF595 SPI Tri-Color LED Driver
+- translation: 
+
+diagram.addPart.wokwi-ntc-temperature-sensor:
+- source: Analog Temperature Sensor (NTC)
+- translation: Sensor Analógico de Temperatura (NTC)
+
+diagram.addPart.wokwi-photoresistor-sensor:
+- source: Photoresistor (LDR) Sensor
+- translation: Fotorresistor (LDR)
+
+diagram.addPart.wokwi-pir-motion-sensor:
+- source: PIR Motion Sensor
+- translation: Sensor de Movimento PIR
+
+diagram.addPart.wokwi-potentiometer:
+- source: Potentiometer
+- translation: Potenciômetro
+
+diagram.addPart.wokwi-pushbutton:
+- source: Pushbutton
+- translation: Botão (Pushbutton)
+
+diagram.addPart.wokwi-pushbutton-6mm:
+- source: Pushbutton 6mm
+- translation: 
+
+diagram.addPart.wokwi-relay-module:
+- source: Relay Module
+- translation: 
+
+diagram.addPart.wokwi-resistor:
+- source: Resistor
+- translation: Resistor
+
+diagram.addPart.wokwi-rgb-led:
+- source: RGB LED
+- translation: LED RGB
+
+diagram.addPart.wokwi-servo:
+- source: Servo
+- translation: Servo
+
+diagram.addPart.wokwi-slide-potentiometer:
+- source: Slide Potentiometer
+- translation: Potenciômetro Deslizante
+
+diagram.addPart.wokwi-slide-switch:
+- source: Slide switch
+- translation: Interruptor Deslizante
+
+diagram.addPart.wokwi-stepper-motor:
+- source: Bipolar Stepper Motor
+- translation: 
+
+diagram.addPart.wokwi-tm1637-7segment:
+- source: Seven Segment Display (TM1637)
+- translation: 
+
+diagram.addPart.wokwi-vcc:
+- source: VCC Symbol
+- translation: 
+
