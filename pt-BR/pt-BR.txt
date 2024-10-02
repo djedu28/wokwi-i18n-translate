@@ -264,7 +264,7 @@ diagram.addPart.category.output:
 
 diagram.addPart.category.breadboard:
 - source: Breadboard
-- translation: Protoboard (Placa de ensaio)
+- translation: Protoboard (Placa de Ensaio)
 
 diagram.addPart.category.misc:
 - source: Misc
@@ -280,15 +280,15 @@ diagram.addPart.category.logic:
 
 diagram.addPart.board-cd74hc4067:
 - source: 16 Channel Analog Multiplexer (CD74HC4067)
-- translation: Multiplexador analógico de 16 canais (CD74HC4067)
+- translation: Multiplexador Analógico de 16 Canais (CD74HC4067)
 
 diagram.addPart.board-ds18b20:
 - source: DS18B20 Temperature Sensor (beta)
-- translation: Sensor de temperatura DS18B20 (beta)
+- translation: Sensor de Temperatura DS18B20 (beta)
 
 diagram.addPart.board-epaper-2in9:
 - source: 2.9" e-Paper Display (beta)
-- translation: Display e-Paper 2.9″ 296×128 (beta)
+- translation: Display e-Paper 2.9″ 296x128 (beta)
 
 diagram.addPart.board-grove-oled-sh1107:
 - source: Grove SH1107 - OLED Display
@@ -296,7 +296,7 @@ diagram.addPart.board-grove-oled-sh1107:
 
 diagram.addPart.board-ili9341-cap-touch:
 - source: ILI9341 2.8" Touch Screen LCD
-- translation: Display Touch TFT LCD ILI9341 2.8" 240*320
+- translation: Display Touch TFT LCD ILI9341 2.8″ 240x320
 
 diagram.addPart.board-ssd1306:
 - source: SSD1306 OLED display
@@ -324,7 +324,7 @@ diagram.addPart.wokwi-7segment-4digits:
 
 diagram.addPart.wokwi-a4988:
 - source: A4988 Stepper Motor Driver
-- translation: Driver de motor de passo A4988
+- translation: Driver de Motor de Passo A4988
 
 diagram.addPart.wokwi-analog-joystick:
 - source: Analog Joystick
@@ -348,7 +348,7 @@ diagram.addPart.wokwi-breadboard-mini:
 
 diagram.addPart.wokwi-buzzer:
 - source: Buzzer
-- translation: Buzzer piezoelétrico (passivo)
+- translation: Buzzer Piezoelétrico (passivo)
 
 diagram.addPart.wokwi-dht22:
 - source: DHT22
@@ -356,7 +356,7 @@ diagram.addPart.wokwi-dht22:
 
 diagram.addPart.wokwi-dip-switch-8:
 - source: DIP Switch 8
-- translation: 
+- translation: Chave DIP Switch 8 vias
 
 diagram.addPart.wokwi-ds1307:
 - source: DS1307 RTC
@@ -364,51 +364,51 @@ diagram.addPart.wokwi-ds1307:
 
 diagram.addPart.wokwi-flip-flop-d:
 - source: Flip-Flop D
-- translation: 
+- translation: Flip-Flop D
 
 diagram.addPart.wokwi-flip-flop-dsr:
 - source: Flip-Flop DSR
-- translation: 
+- translation: Flip-Flop DSR
 
 diagram.addPart.wokwi-gate-and-2:
 - source: AND gate
-- translation: 
+- translation: Porta Lógica AND
 
 diagram.addPart.wokwi-gate-nand-2:
 - source: NAND gate
-- translation: 
+- translation: Porta Lógica NAND
 
 diagram.addPart.wokwi-gate-not:
 - source: NOT gate
-- translation: 
+- translation: Porta Lógica NOT
 
 diagram.addPart.wokwi-gate-or-2:
 - source: OR gate
-- translation: 
+- translation: Porta Lógica OR
 
 diagram.addPart.wokwi-gate-xor-2:
 - source: XOR gate
-- translation: 
+- translation: Porta Lógica XOR
 
 diagram.addPart.wokwi-gnd:
 - source: GND Symbol
-- translation: 
+- translation: GND Simbolo
 
 diagram.addPart.wokwi-hc-sr04:
 - source: HC-SR04 Ultrasonic Distance Sensor
-- translation: Sensor Ultrassônico HC-SR04
+- translation: Sensor de Distância Ultrassônico HC-SR04
 
 diagram.addPart.wokwi-hx711:
 - source: HX711 Load Cell (50kg)
-- translation: 
+- translation: HX711 + Célula de Carga (50kg)
 
 diagram.addPart.wokwi-hx711-5kg:
 - source: HX711 Load Cell (5kg)
-- translation: 
+- translation: HX711 + Célula de Carga (5kg)
 
 diagram.addPart.wokwi-ili9341:
 - source: ILI9341 2.8" TFT-LCD display
-- translation: 
+- translation: Display TFT LCD ILI9341 2.8″ 240x320
 
 diagram.addPart.wokwi-ir-receiver:
 - source: IR Receiver
@@ -420,11 +420,11 @@ diagram.addPart.wokwi-ir-remote:
 
 diagram.addPart.wokwi-junction:
 - source: Junction (beta)
-- translation: 
+- translation: União de Fios (beta)
 
 diagram.addPart.wokwi-ks2e-m-dc5:
 - source: DPDT Relay
-- translation: 
+- translation: Relé (DPDT)
 
 diagram.addPart.wokwi-ky-040:
 - source: Rotary Encoder (KY-040)
@@ -464,7 +464,7 @@ diagram.addPart.wokwi-logic-analyzer:
 
 diagram.addPart.wokwi-logo:
 - source: Wokwi Logo
-- translation: 
+- translation: Wokwi Logo
 
 diagram.addPart.wokwi-max7219-matrix:
 - source: LED Dot Matrix (MAX7219)
@@ -472,7 +472,7 @@ diagram.addPart.wokwi-max7219-matrix:
 
 diagram.addPart.wokwi-membrane-keypad:
 - source: Keypad
-- translation: Teclado
+- translation: Teclado Matricial
 
 diagram.addPart.wokwi-microsd-card:
 - source: microSD card
@@ -484,11 +484,11 @@ diagram.addPart.wokwi-mpu6050:
 
 diagram.addPart.wokwi-mux-2:
 - source: MUX
-- translation: 
+- translation: MUX (Multiplexador)
 
 diagram.addPart.wokwi-neopixel:
 - source: NeoPixel Compatible LED (WS2812)
-- translation: 
+- translation: NeoPixel LED RGB WS2812 (WS2812)
 
 diagram.addPart.wokwi-neopixel-meter:
 - source: NeoPixel Meter
@@ -496,7 +496,7 @@ diagram.addPart.wokwi-neopixel-meter:
 
 diagram.addPart.wokwi-nlsf595:
 - source: NLSF595 SPI Tri-Color LED Driver
-- translation: 
+- translation: NLSF595 Driver de LED Tricolor Serial (SPI)
 
 diagram.addPart.wokwi-ntc-temperature-sensor:
 - source: Analog Temperature Sensor (NTC)
@@ -516,15 +516,15 @@ diagram.addPart.wokwi-potentiometer:
 
 diagram.addPart.wokwi-pushbutton:
 - source: Pushbutton
-- translation: Botão (Pushbutton)
+- translation: Botão 12mm (Pushbutton)
 
 diagram.addPart.wokwi-pushbutton-6mm:
 - source: Pushbutton 6mm
-- translation: 
+- translation: Botão 6mm (Pushbutton)
 
 diagram.addPart.wokwi-relay-module:
 - source: Relay Module
-- translation: 
+- translation: Modulo Relé
 
 diagram.addPart.wokwi-resistor:
 - source: Resistor
@@ -548,13 +548,13 @@ diagram.addPart.wokwi-slide-switch:
 
 diagram.addPart.wokwi-stepper-motor:
 - source: Bipolar Stepper Motor
-- translation: 
+- translation: Motor de passo bipolar
 
 diagram.addPart.wokwi-tm1637-7segment:
 - source: Seven Segment Display (TM1637)
-- translation: 
+- translation: Módulo Display de Sete Segmentos (TM1637)
 
 diagram.addPart.wokwi-vcc:
 - source: VCC Symbol
-- translation: 
+- translation: VCC Simbolo
 
